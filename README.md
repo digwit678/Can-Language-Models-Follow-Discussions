@@ -5,8 +5,10 @@ This is the repository for the bachelor's thesis by Nico Previtali at Hochschule
 
 ### Typ der Arbeit 
 Bachelorarbeit (BAA)
+ 
 ### Titel
 Can Language Models Follow Discussions?
+ 
 ### Ausgangslage und Problemstellung
 Die Diskussion ist ein elementarer Bestandteil des Meinungsaustausches. Dies kann sowohl synchron in einem direkten Gespräch von mehreren Personen oder asynchron auf Social Media, Foren, oder Diskussions-Plattformen wie kialo.com geschehen.
 
