@@ -1,5 +1,5 @@
 # Can Language Models Follow Discussions ?
-"Repository for the bachelor's thesis by Nico Previtali at Hochschule Luzern on the topic: "Can Language Models Follow Discussions?"
+This is a Repository for the bachelor's thesis by Nico Previtali at Hochschule Luzern on the topic: "Can Language Models Follow Discussions?"
 
 ## Auftrag (Complesis)
 
