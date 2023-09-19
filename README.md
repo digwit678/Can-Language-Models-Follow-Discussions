@@ -1,6 +1,7 @@
 # Can Language Models Follow Discussions ?
 This is the repository for the bachelor's thesis by Nico Previtali at Hochschule Luzern on the topic: "Can Language Models Follow Discussions?"
-
+  
+## Folder Structure 
 Can_Language_Models_Follow_Discussions  
 │  
 ├── Data_Analysis  
