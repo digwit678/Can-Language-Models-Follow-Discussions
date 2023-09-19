@@ -3,7 +3,7 @@ This is the repository for the bachelor's thesis by Nico Previtali at Hochschule
   
 ## Folder Structure 
 Can_Language_Models_Follow_Discussions    
-│
+│  
 ├── data_preparation  
 │   └── kialo_data  
 │       ├── 1_raw_data  
