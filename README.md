@@ -2,49 +2,43 @@
 This is the repository for the bachelor's thesis by Nico Previtali at Hochschule Luzern on the topic: "Can Language Models Follow Discussions?"
   
 ## Folder Structure 
-Can_Language_Models_Follow_Discussions  
+Can_Language_Models_Follow_Discussions    
+│
+├── data_preparation  
+│   └── kialo_data  
+│       ├── 1_raw_data  
+│       ├── 2_cleaned_data_JSON  
+│       ├── 3_data_analysis  
+│       └── 4_diagram_files  
 │  
-├── Data_Analysis  
-│   ├── Raw_Data  
-│   ├── Cleaned_Data  
-│   ├── (Exploratory) Data_Analysis  
-│   └── Visualizations  
+├── model_selection  
 │  
-├── LLM_Selection  
-│   ├── Candidate_Models  
-│   ├── Evaluation_Metrics  
-│   └── Selected_Models  
+├── probing  
+│   ├── task_1  
+│   │   ├── analysis  
+│   │   └── data  
+│   ├── task_2  
+│   │   ├── analysis  
+│   │   └── data  
+│   ├── task_3  
+│   │   ├── analysis  
+│   │   └── data  
+│   ├── task_4  
+│   │   ├── analysis  
+│   │   └── data  
+│   └── task_5  
+│       ├── analysis  
+│       └── data  
 │  
-├── Probing_LLMs  
-│   ├── Probing_1  
-│   │   ├── Data  
-│   │   ├── Analysis  
-│   │   └── Results  
-│   ├── Probing_2  
-│   │   ├── Data  
-│   │   ├── Analysis  
-│   │   └── Results  
-│   ├── Probing_3  
-│   │   ├── Data  
-│   │   ├── Analysis  
-│   │   └── Results  
-│   ├── Probing_4  
-│   │   ├── Data  
-│   │   ├── Analysis  
-│   │   └── Results  
-│   └── Probing_5  
-│       ├── Data  
-│       ├── Analysis  
-│       └── Results  
-│  
-├── Final_Interpretation  
-│   ├── Discussion  
-│   ├── Conclusion  
-│   └── Recommendations  
-│  
-└── Supplementary_Material    
-    ├── Code  
-    └── Literature_Review  
+└── supplementary_material  
+│    
+├── Final_Interpretation    
+│   ├── Discussion    
+│   ├── Conclusion    
+│   └── Recommendations    
+│    
+└── Supplementary_Material      
+
   
 
 ## Auftrag (Complesis)
