@@ -1,50 +1,50 @@
 # Can Language Models Follow Discussions ?
 This is the repository for the bachelor's thesis by Nico Previtali at Hochschule Luzern on the topic: "Can Language Models Follow Discussions?"
 
-Can_Language_Models_Follow_Discussions
-│
-├── Data_Analysis
-│   ├── Raw_Data
-│   ├── Cleaned_Data
-│   ├── (Exploratory) Data_Analysis
-│   └── Visualizations
-│
-├── LLM_Selection
-│   ├── Candidate_Models
-│   ├── Evaluation_Metrics
-│   └── Selected_Models
-│
-├── Probing_LLMs
-│   ├── Probing_1
-│   │   ├── Data
-│   │   ├── Analysis
-│   │   └── Results
-│   ├── Probing_2
-│   │   ├── Data
-│   │   ├── Analysis
-│   │   └── Results
-│   ├── Probing_3
-│   │   ├── Data
-│   │   ├── Analysis
-│   │   └── Results
-│   ├── Probing_4
-│   │   ├── Data
-│   │   ├── Analysis
-│   │   └── Results
-│   └── Probing_5
-│       ├── Data
-│       ├── Analysis
-│       └── Results
-│
-├── Final_Interpretation
-│   ├── Discussion
-│   ├── Conclusion
-│   └── Recommendations
-│
-└── Supplementary_Material
-    ├── Code
-    └── Literature_Review
-
+Can_Language_Models_Follow_Discussions  
+│  
+├── Data_Analysis  
+│   ├── Raw_Data  
+│   ├── Cleaned_Data  
+│   ├── (Exploratory) Data_Analysis  
+│   └── Visualizations  
+│  
+├── LLM_Selection  
+│   ├── Candidate_Models  
+│   ├── Evaluation_Metrics  
+│   └── Selected_Models  
+│  
+├── Probing_LLMs  
+│   ├── Probing_1  
+│   │   ├── Data  
+│   │   ├── Analysis  
+│   │   └── Results  
+│   ├── Probing_2  
+│   │   ├── Data  
+│   │   ├── Analysis  
+│   │   └── Results  
+│   ├── Probing_3  
+│   │   ├── Data  
+│   │   ├── Analysis  
+│   │   └── Results  
+│   ├── Probing_4  
+│   │   ├── Data  
+│   │   ├── Analysis  
+│   │   └── Results  
+│   └── Probing_5  
+│       ├── Data  
+│       ├── Analysis  
+│       └── Results  
+│  
+├── Final_Interpretation  
+│   ├── Discussion  
+│   ├── Conclusion  
+│   └── Recommendations  
+│  
+└── Supplementary_Material    
+    ├── Code  
+    └── Literature_Review  
+  
 
 ## Auftrag (Complesis)
 
