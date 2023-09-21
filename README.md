@@ -32,12 +32,12 @@ Can_Language_Models_Follow_Discussions
 │  
 └── supplementary_material  
 │    
-├── Final_Interpretation    
-│   ├── Discussion    
-│   ├── Conclusion    
-│   └── Recommendations    
+├── final_interpretation    
+│   ├── discussion    
+│   ├── conclusion    
+│   └── (recommendations)    
 │    
-└── Supplementary_Material      
+└── supplementary_material      
 
   
 
